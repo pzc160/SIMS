@@ -1,0 +1,13 @@
+C:\Users\xy\source\repos\Stu.BLL\bin\Debug\netstandard2.0\Stu.DAL.dll
+C:\Users\xy\source\repos\Stu.BLL\bin\Debug\netstandard2.0\Stu.Models.dll
+C:\Users\xy\source\repos\Stu.BLL\obj\Debug\netstandard2.0\Stu.BLL.csprojAssemblyReference.cache
+C:\Users\xy\source\repos\Stu.BLL\obj\Debug\netstandard2.0\Stu.BLL.AssemblyInfoInputs.cache
+C:\Users\xy\source\repos\Stu.BLL\obj\Debug\netstandard2.0\Stu.BLL.AssemblyInfo.cs
+C:\Users\xy\source\repos\Stu.BLL\bin\Debug\netstandard2.0\Stu.BLL.deps.json
+C:\Users\xy\source\repos\Stu.BLL\bin\Debug\netstandard2.0\Stu.BLL.dll
+C:\Users\xy\source\repos\Stu.BLL\bin\Debug\netstandard2.0\Stu.BLL.pdb
+C:\Users\xy\source\repos\Stu.BLL\bin\Debug\netstandard2.0\Stu.DAL.pdb
+C:\Users\xy\source\repos\Stu.BLL\bin\Debug\netstandard2.0\Stu.Models.pdb
+C:\Users\xy\source\repos\Stu.BLL\obj\Debug\netstandard2.0\Stu.BLL.csproj.CopyComplete
+C:\Users\xy\source\repos\Stu.BLL\obj\Debug\netstandard2.0\Stu.BLL.dll
+C:\Users\xy\source\repos\Stu.BLL\obj\Debug\netstandard2.0\Stu.BLL.pdb

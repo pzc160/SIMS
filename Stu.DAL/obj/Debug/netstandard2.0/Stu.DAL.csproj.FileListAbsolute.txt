@@ -1,0 +1,11 @@
+C:\Users\xy\source\repos\Stu.DAL\bin\Debug\netstandard2.0\Stu.Models.dll
+C:\Users\xy\source\repos\Stu.DAL\obj\Debug\netstandard2.0\Stu.DAL.csprojAssemblyReference.cache
+C:\Users\xy\source\repos\Stu.DAL\obj\Debug\netstandard2.0\Stu.DAL.AssemblyInfoInputs.cache
+C:\Users\xy\source\repos\Stu.DAL\obj\Debug\netstandard2.0\Stu.DAL.AssemblyInfo.cs
+C:\Users\xy\source\repos\Stu.DAL\bin\Debug\netstandard2.0\Stu.DAL.deps.json
+C:\Users\xy\source\repos\Stu.DAL\bin\Debug\netstandard2.0\Stu.DAL.dll
+C:\Users\xy\source\repos\Stu.DAL\bin\Debug\netstandard2.0\Stu.DAL.pdb
+C:\Users\xy\source\repos\Stu.DAL\bin\Debug\netstandard2.0\Stu.Models.pdb
+C:\Users\xy\source\repos\Stu.DAL\obj\Debug\netstandard2.0\Stu.DAL.csproj.CopyComplete
+C:\Users\xy\source\repos\Stu.DAL\obj\Debug\netstandard2.0\Stu.DAL.dll
+C:\Users\xy\source\repos\Stu.DAL\obj\Debug\netstandard2.0\Stu.DAL.pdb
